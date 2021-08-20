@@ -1,0 +1,17 @@
+import java.util.*;
+public class Main{
+public static void main (String[] args) {
+    int n = 10;
+    //for odd //
+   // int n = 11;//
+    
+    if(n % 2==0) {
+        System.out.println(n + "is even");
+        }
+        else {
+            System.out.println(n + "is odd");
+        }
+        System.out.println("I can do this");
+    }   
+}
+    
